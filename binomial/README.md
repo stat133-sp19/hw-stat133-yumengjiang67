@@ -1,17 +1,17 @@
-##Introduction
+## Introduction
 This is a R package *binomial* that implements functions for calculating probabilities of a Binomial random variable, and related calculations such as the probability distribution, the expected value, variance, etc.
 
-##Overview
+## Overview
 * "binomial" package contains the following basic functions
-  - bin_choose()
-  – bin_probability()
-  – bin_distribution(); and plot.bindis()
-  – bin_cumulative(); and plot.bincum()
-  – bin_var(); and print.binvar(), summary.binvar(), print.summary.binvar()
-  – bin_mean(), bin_variance(), bin_mode(), bin_skewness(), bin_kurtosis()
+  * bin_choose()
+  * bin_probability()
+  * bin_distribution(); and plot.bindis()
+  * bin_cumulative(); and plot.bincum()
+  * bin_var(); and print.binvar(), summary.binvar(), print.summary.binvar()
+  * bin_mean(), bin_variance(), bin_mode(), bin_skewness(), bin_kurtosis()
 
 
-##Usage
+## Usage
 
 ```{r}
 library(binomial)
